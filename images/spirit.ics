@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+PRODID:-//Spirit//Itinerary Confirmation//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20241130T055024-3127-TFRJGY@tickets.spirit.com
+ORGANIZER:MAILTO:confirmations@spirit.com
+DTSTART:20241201T212600Z
+DTEND:20241201T235700Z
+SUMMARY:Spirit flight 3127 from Tampa, FL on  12/01/2024 04:26 PM 
+LOCATION:Arriving Houston, TX - Intercontinental on 12/01/2024 05:57 PM
+TRANSP:OPAQUE
+SEQUENCE:0
+DTSTAMP:20241130T055138
+DESCRIPTION:Confirmation Number: TFRJGY. 
+
+Should our flight schedule change, we will notify you by email as early as possible. If you have any questions about your reservation, please call 1-801-401-2222. 
+
+Thank you for flying Spirit.
+PRIORITY:5
+CLASS:PUBLIC
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Visit http://spirit.com/ to check in online now!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
